@@ -67,7 +67,7 @@ Tasks:
     Task 4: Use the Pandas library to demonstrate data analysis.
     Task 5: Fix a function that returns a specific string.
     
-Install necessary libraries (if not already installed):
+Install necessary libraries:
     pip install numpy pandas
 
 Contributing
